@@ -3,6 +3,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Jenkins CI automatic build verified!");
+        System.out.println("Testing automatic Jenkins CI build!");
     }
 }
